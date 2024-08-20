@@ -39,7 +39,7 @@ class Txt(object):
 
 ➻ This Bot Also Supports Custom Thumbnail And Custom Caption.
 
-<b>Bot Is Made By :</b> @PandaWep"""
+<b>Bot Is Made By :</b> @modstorexd"""
 #ʀᴀᴘᴏ ᴄʀᴇᴀᴛᴏʀ https://github.com/AshutoshGoswami24
 #ʀᴀᴘᴏ https://github.com/AshutoshGoswami24/Rename-Bot
     ABOUT_TXT = """
